@@ -10,7 +10,7 @@
 #  - test new items
 ####################
 
-ZBX_REPO='https://chrispiepho@github.com/zbal/zabbix.git'
+ZBX_REPO='https://chrispiepho@github.com/chrispiepho/zabbix.git'
 ZBX_HOME=/usr/share/zabbix
 
 # Fix wrong SSL certificates from github
